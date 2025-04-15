@@ -42,7 +42,7 @@ public class asignment1 {
 	    String eye_color = " Brown";
 //	    To Print 19.Person's birthplace: "New York City" 
 	    String Birthplace= "New York City" ;
-//	    To Print 20.Distance between two cities: 200.5
+//	    To Print 20.Distance between two cities: 200.5 (Double)
 	    float distance= 200.5f;
 
 	    
